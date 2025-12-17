@@ -36,8 +36,6 @@ predictedCO2 = regr.predict(input_data)
 print('Predicted CO2 for the corresponding weight and volume:', predictedCO2)
 ```
 ## Output:
-
-### Insert your output
 <img width="1030" height="299" alt="image" src="https://github.com/user-attachments/assets/b26ffc5a-f9db-44d7-9989-983b5e46bbe3" />
 
 ## Result:
